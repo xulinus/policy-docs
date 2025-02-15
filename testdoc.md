@@ -19,3 +19,5 @@ if err != nil {
 | col0     | col1   |
 |----------|--------|
 | hello    | world  |
+
+[example.com](https://example.com)
