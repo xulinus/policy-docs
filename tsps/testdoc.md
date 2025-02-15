@@ -24,3 +24,5 @@ if err != nil {
 | hello    | world  |
 
 [example.com](https://example.com)
+
+[github.com](https://www.github.com)
